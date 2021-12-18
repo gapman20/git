@@ -1,1 +1,3 @@
 Hola desde GIT rama2
+
+Aprenderemos hacer un pull desde bash
